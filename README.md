@@ -49,7 +49,7 @@
    ```
 
 3. **初始化数据库**
-   - 打开 MySQL 客户端
+   - 打开 MySQL 客户端或Navicat（直接运行脚本代码）
    - 运行 `init_ecommerce_db.sql` 脚本：
    ```bash
    mysql -u root -p < init_ecommerce_db.sql
@@ -196,9 +196,6 @@ SimpleEcommerceDB/
 
 本项目仅供学习和演示使用。
 
-## 👨‍💻 作者
-
-AI Assistant
 
 ## 📚 参考资料
 
